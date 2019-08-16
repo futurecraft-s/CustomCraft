@@ -10,8 +10,8 @@
 # It takes one water at the center (id 8), a bucket (id 325) and air (id 0) everywhere else at the bottom and it craft a water bucket called Example.
 1:
   shape:
-        - [[0], [0], [0]]
-        - [[0], [8], [0]]
-        - [[0], ["325:0"], [0]]
-  result: ["325:8", 1, '{"display":{"Name":"Example"}}']
+        - [[388], [388], [388]]
+        - [[388], ["351:4"], [388]]
+        - [[388], [388], [388]]
+  result: ["341:0", 1, '{"display":{"Name":"Ancient Orb"}}']
 ...
